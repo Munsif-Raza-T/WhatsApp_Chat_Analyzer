@@ -6,3 +6,10 @@ The analyzer can extract various metrics and statistics from the chat logs, such
 The tool can be used for various purposes such as personal use, businesses, or even in research. It could be used to improve personal communication skills, to analyze customer interactions, or to conduct research on language and communication patterns in online conversations.
 
 In summary, the WhatsApp chat analyzer is a powerful tool that can help users gain valuable insights into their WhatsApp conversations and communicate more effectively.
+
+How to run this project:
+*Clone this repo
+*Open this in any IDE
+*You should have Streamlit package installed
+*Run this command in terminal: streamlit run app.py
+*It will get started on your localhost in your browser.
